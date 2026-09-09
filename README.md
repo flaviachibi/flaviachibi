@@ -1,21 +1,16 @@
-Olá! Sou a Flavia ou Chibi!
-
-🐱🎨🎼🎻🧩♾️🎮🌻🏖️🕉️🏳️‍🌈
-
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4951&pause=1000&color=8631F7&width=435&lines=Ol%C3%A1!+Sou+a+Flavia+ou+a+Chibi!" alt="Typing SVG" /></a>
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
-  
+<p align="center">
+  🐱🎨🎼🎻🧩♾️🎮🌻🏖️🕉️🏳️‍🌈<br>
+  Graduanda de Análise e Desenvolvimento de Sistemas e técnico em Informática para Internet no IF.
+Sempre aprendendo mais, atualizando os conhecimentos e buscando novos desafios na área de tecnologia.<br>Estudante de Educação Física também, e professora de Yoga!!</p>
+
 #
 
 <h3 align="left">Conecte-se comigo!</h3>
