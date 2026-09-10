@@ -1,16 +1,15 @@
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4951&pause=1000&color=8631F7&width=435&lines=Ol%C3%A1!+Sou+a+Flavia+ou+a+Chibi!" alt="Typing SVG" /></a>
+<br>
 
-<img align="center" alt="" src="./src/header-gif.gif">
-
-<a href="https://github.com/flaviachibi/flaviachibi/issues/1#issue-5414399914">
-
+<img align="center" width="300" alt="Image" src="https://github.com/user-attachments/assets/319cd86a-1be4-4736-ae86-3416e9d5045b" />
+<br>
 <p align="center">
   🐱🎨🎼🎻🧩♾️🎮🌻🏖️🕉️🏳️‍🌈<br>
-  Estudante de Análise e Desenvolvimento de Sistemas e técnico em Informática para Internet no IF.<br>
-  Sempre aprendendo mais buscando conhecimento como o ET Bilu ensinou.<br>
-  Estudante de Educação Física também e professora de Yoga!!<br> 
+  Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet no IF.<br>
+  Sempre aprendendo mais e buscando conhecimento como o ET Bilu ensinou.<br>
+  Estudante de Educação Física e professora de Yoga também!!<br> 
   Graduada em Desenho Industrial e Design de Produto</p>
 
 <h3 align="center">Conecte-se comigo!</h3>
