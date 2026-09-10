@@ -4,16 +4,16 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-#
+<a href="https://github.com/flaviachibi/flaviachibi/issues/1#issue-5414399914">
 
 <p align="center">
   🐱🎨🎼🎻🧩♾️🎮🌻🏖️🕉️🏳️‍🌈<br>
-  Graduanda de Análise e Desenvolvimento de Sistemas e técnico em Informática para Internet no IF.
-Sempre aprendendo mais, atualizando os conhecimentos e buscando novos desafios na área de tecnologia.<br>Estudante de Educação Física também, e professora de Yoga!!</p>
+  Estudante de Análise e Desenvolvimento de Sistemas e técnico em Informática para Internet no IF.<br>
+  Sempre aprendendo mais buscando conhecimento como o ET Bilu ensinou.<br>
+  Estudante de Educação Física também e professora de Yoga!!<br> 
+  Graduada em Desenho Industrial e Design de Produto</p>
 
-#
-
-<h3 align="left">Conecte-se comigo!</h3>
+<h3 align="center">Conecte-se comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:flavia.bezerro@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/flavia-chibi/)
