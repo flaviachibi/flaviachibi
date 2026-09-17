@@ -7,7 +7,7 @@
 <br>
 <p align="center">
   🐱🎨🎼🎻🧩♾️🎮🌻🏖️🕉️🏳️‍🌈<br>
-  Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet no IF.<br>
+  Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet.<br>
   Sempre aprendendo mais e buscando conhecimento como o ET Bilu ensinou.<br>
   Estudante de Educação Física e professora de Yoga também!!<br> 
   Graduada em Desenho Industrial e Design de Produto</p>
