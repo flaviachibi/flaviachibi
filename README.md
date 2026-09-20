@@ -10,7 +10,8 @@
   Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Informática para Internet.<br>
   Sempre aprendendo mais e buscando conhecimento como o ET Bilu ensinou.<br>
   Estudante de Educação Física e professora de Yoga também!!<br> 
-  Graduada em Desenho Industrial e Design de Produto</p>
+  Graduada em Desenho Industrial e Design de Produto, Técnico em Design Gráfico.<br>
+  Pós em Design de Mobiliário, PICs e Musicoterapia (os dois últimos só integram o Yoga :stuck_out_tongue_winking_eye:)</p>
 
 <h3 align="center">Conecte-se comigo!</h3>
 
